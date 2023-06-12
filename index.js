@@ -1,5 +1,5 @@
 const fn = () => {
-    const miString = "soy un string!"
+    const miString = "soy un el hobre más feliz del mundo!"
     let b = miString + "muy feliz"
     console.log(b)
 }
@@ -7,7 +7,7 @@ const fn = () => {
 fn()
 
 const clickeado = () => {
-    let a = "chanchito feliz"
+    let a = "tu chanchito feliz"
 
     console.log(a)
 }
